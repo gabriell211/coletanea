@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribute a book
+    url: https://github.com/gabriell211/coletanea/fork
+    about: Fork the repository, add the book in your fork, and submit a Pull Request for review.
